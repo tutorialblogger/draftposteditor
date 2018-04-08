@@ -21928,7 +21928,7 @@
 	              className: 'menuToggleButton',
 	              onClick: this._toggleMenu
 	            },
-	            _react2.default.createElement('img', { className: 'menuToggleButton-icon', src: 'img/menu.svg' })
+	            _react2.default.createElement('img', { className: 'menuToggleButton-icon', src: 'https://cdn.rawgit.com/tutorialblogger/draftposteditor/9086baed/menu.svg' })
 	          ),
 	          _react2.default.createElement(
 	            'h1',
@@ -22017,7 +22017,7 @@
 	                _react2.default.createElement(
 	                  'button',
 	                  { className: 'moreOptions-button', onClick: this._toggleOptions },
-	                  _react2.default.createElement('img', { className: 'more-options-button-icon', src: 'img/more.svg' })
+	                  _react2.default.createElement('img', { className: 'more-options-button-icon', src: 'https://cdn.rawgit.com/tutorialblogger/draftposteditor/9086baed/more.svg' })
 	                ),
 	                _react2.default.createElement(
 	                  'ul',
@@ -22139,7 +22139,7 @@
 	              _react2.default.createElement(
 	                'button',
 	                { className: 'editorMenu-close-button', onClick: this._closeMenu },
-	                _react2.default.createElement('img', { className: 'editorMenu-clos-button-icon', src: 'img/close.svg' })
+	                _react2.default.createElement('img', { className: 'editorMenu-clos-button-icon', src: 'https://cdn.rawgit.com/tutorialblogger/draftposteditor/9086baed/close.svg' })
 	              )
 	            ),
 	            selected.length > 0 && _react2.default.createElement(
